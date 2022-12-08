@@ -35,7 +35,7 @@ $info: #363636;
 .typewriter {
     display: inline-block;
 
-    border-right: solid 3px #a3a3a3;
+    border-right: solid 3px #00897b;
     width: 0;
     overflow: hidden;
     white-space: nowrap;
@@ -74,7 +74,7 @@ $info: #363636;
 
 @keyframes blink {
     from { border-color: transparent;}
-    50% { border-color: #a3a3a3}
+    50% { border-color: #00897b}
     to { border-color: transparent;}
 }
 
